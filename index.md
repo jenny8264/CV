@@ -4,13 +4,14 @@ layout: homepage
 
 ## About Me
 
-Sean Purcell is a digital health humanist who works at UCSF>
+Jenny Kwon is a gerontologist driven by a passion for improving the health care system and delivering better aging services.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
-- **Digital Health Humanities:** I do things.
+- **Long-Term Care:** Nursing Home Quality Measurement, Person-Centered Care, Healthcare Workforce 
+- **Implementation Science:** AI Healthcare
+- **Medical Humanities and Social Medicine:** Ageism, Intergenerational Relationship, Elder Abuse 
+- **Mixed-methods Research:** SAS, Stata, SPSS, Tableau, NVivo 
 
 {% include_relative _includes/education.md %}
 
