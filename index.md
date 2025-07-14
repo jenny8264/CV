@@ -11,7 +11,7 @@ Jenny Kwon is a gerontologist driven by a passion for improving the health care 
 - **Long-Term Care:** Nursing Home Quality Measurement, Person-Centered Care, Healthcare Workforce 
 - **Implementation Science:** AI Healthcare
 - **Medical Humanities and Social Medicine:** Ageism, Intergenerational Relationship, Elder Abuse 
-- **Mixed-methods Research:** SAS, Stata, SPSS, Tableau, NVivo 
+- **Mixed-Methods Research:** SAS, Stata, SPSS, Tableau, NVivo 
 
 {% include_relative _includes/education.md %}
 
