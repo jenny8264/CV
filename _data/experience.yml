@@ -1,19 +1,28 @@
 main:
 
   - type: education
-    degreepath: This is a degree path # for type.education.
-    institution: University University
-    department: Lorem Ipsum
-    advisors: Jane Doe, John Doe # for type.education.
-    thesis: "Making Github Templates" # for type.education. You can use <i></i> to style long-form titles like for a dissertation.
-    years: 2017 - Present
-    notes: In Progress
+    degreepath: PhD # for type.education.
+    institution: Miami University, Oxford, OH 
+    department: Social Gerontology 
+    years: 2025
     
+    - type: education
+    degreepath: MS # for type.education.
+    institution: Indiana University, Bloomington, IN 
+    department: Kinesiology 
+    years: 2020
+
+    - type: education
+    degreepath: BS # for type.education.
+    institution: Konkuk University, Seoul, South Korea 
+    department: Business Administration 
+    years: 2019
+      
   - type: job
-    title: Example Job # for type.employment.
-    institution: University University
-    department: Department
-    years: 2024 - Present
+    title: Postdoctoral Fellow # for type.employment.
+    institution: University of California, San Francisco
+    department: Philip R. Lee Institute for Health Policy Studies   
+    years: 2025 - Present
     
   - type: service
     title: A role
